@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Bubble Tea Gelatin",
+        "price": 6000
+    },
+    {
+        "id": 2,
+        "title": "kiwi Tea Gelatin",
+        "price": 6000
+    },
+    {
+        "id": 3,
+        "title": "manggo Tea Gelatin",
+        "price": 6000
+    },
+    {
+        "id": 4,
+        "title": "durian Tea Gelatin",
+        "price": 6000
+    }
+]

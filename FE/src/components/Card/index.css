@@ -1,0 +1,9 @@
+.cardMedia:hover {
+    /* display: none; */
+    transition: 0.4s  ease-out; 
+    scale: 1.05
+}
+
+.cardMedia{
+    transition: 0.4s !important; 
+}

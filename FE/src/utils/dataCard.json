@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "title" : "Ice Coffe Palm Sugar",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 27000
+        
+    },
+    {
+        "id" : 2,
+        "title" : "Ice Manggo",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 25000
+        
+    },
+    {
+        "id" : 3,
+        "title" : "Ice Watermelon",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 25000
+        
+    },
+    {
+        "id" : 4,
+        "title" : "Ice Kiwi",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 25000
+        
+    },
+    {
+        "id" : 5,
+        "title" : "Ice Choco",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 25000
+        
+    },
+    {
+        "id" : 6,
+        "title" : "Ice Stroberi",
+        "image" : "https://images.unsplash.com/photo-1589476993333-f55b84301219?auto=format&fit=crop&q=80&w=1854&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price" : 25000
+    }  
+]
